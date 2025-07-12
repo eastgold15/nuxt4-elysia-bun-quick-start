@@ -1,10 +1,10 @@
 {
-  "name": "nuxt-app",
+  "name": "nuxt-app-bun",
   "type": "module",
   "private": true,
   "scripts": {
-    "build": "bunx --bun  nuxt build  ",
-    "dev": "bunx --bun  nuxt dev --dotenv .env -o ",
+    "build": "nuxt build  ",
+    "dev": "nuxt dev --dotenv .env -o ",
     "generate": "nuxt generate",
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare",
