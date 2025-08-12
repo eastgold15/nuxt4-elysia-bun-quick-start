@@ -1,5 +1,5 @@
 {
-  "name": "nuxt-app-bun",
+  "name": "nuxt-elysia-bun",
   "type": "module",
   "private": true,
   "scripts": {
