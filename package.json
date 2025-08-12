@@ -27,7 +27,7 @@
   "devDependencies": {
     "@iconify-json/carbon": "^1.2.10",
     "@iconify-json/ri": "^1.2.5",
-    "@nuxt/icon": "^1.15.0",
+    "@nuxt/icon": "^2.0.0",
     "@pinia/nuxt": "^0.11.1",
     "@unocss/preset-wind4": "^66.3.3",
     "@vueuse/core": "^13.5.0",
