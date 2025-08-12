@@ -3,24 +3,24 @@ updates:
   - package-ecosystem: github-actions
     directory: /
     schedule:
-      interval: daily  # 修正拼写错误
+      interval: daily  
     groups:
       actions-minor:
         update-types:
           - minor
           - patch
 
-  - package-ecosystem: bun  # 正确的包管理器
+  - package-ecosystem: bun  
     directory: /
     schedule:
       interval: daily  # 每天更新
     groups:
-      bun-development:  # 重命名为 bun 相关
+      bun-development:  
         dependency-type: development
         update-types:
           - minor
           - patch
-      bun-production:   # 重命名为 bun 相关
+      bun-production:  
         dependency-type: production
         update-types:
           - patch
