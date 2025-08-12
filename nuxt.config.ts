@@ -3,7 +3,7 @@ export default defineNuxtConfig({
 
   modules: [
     "@unocss/nuxt",
-    // "@nuxt/devtools",
+    "@nuxt/devtools",
     "@nuxtjs/color-mode",
     "@vueuse/nuxt",
     "@pinia/nuxt",
@@ -86,9 +86,8 @@ export default defineNuxtConfig({
     renderJsonPayloads: true,
     typedPages: true
   },
-  compatibilityDate: "2025-05-27",
-  nitro: {
 
+  nitro: {
     esbuild: {
       options: {
         target: "esnext"
@@ -112,7 +111,6 @@ export default defineNuxtConfig({
   nuxtElysia: {
     path: '/api'
   },
-
   icon: {
     customCollections: [
       {

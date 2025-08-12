@@ -116,7 +116,7 @@ export default defineNuxtPlugin({
 
     return {
       provide: {
-        api: $$fetch,
+        comapi: $$fetch,
         loading
       }
     };
