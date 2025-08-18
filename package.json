@@ -30,8 +30,8 @@
     "@nuxt/icon": "^2.0.0",
     "@pinia/nuxt": "^0.11.2",
     "@unocss/preset-wind4": "^66.4.2",
-    "@vueuse/core": "^13.6.0",
-    "@vueuse/nuxt": "^13.6.0",
+    "@vueuse/core": "^13.7.0",
+    "@vueuse/nuxt": "^13.7.0",
     "nuxt-elysia": "^0.2.0",
     "pinia": "^3.0.3"
   }
