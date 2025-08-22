@@ -13,16 +13,16 @@
   "dependencies": {
     "@elysiajs/eden": "^1.3.2",
     "@elysiajs/swagger": "^1.3.1",
-    "@nuxt/devtools": "^2.6.2",
+    "@nuxt/devtools": "^2.6.3",
     "@nuxtjs/color-mode": "^3.5.2",
     "@unocss/nuxt": "^66.4.2",
     "@vueuse/components": "^13.6.0",
     "db0": "^0.3.2",
-    "elysia": "^1.3.8",
+    "elysia": "^1.3.15",
     "nuxt": "^4.0.3",
-    "vue": "^3.5.18",
+    "vue": "^3.5.19",
     "vue-router": "^4.5.1",
-    "vue-sonner": "^2.0.2"
+    "vue-sonner": "^2.0.8"
   },
   "devDependencies": {
     "@iconify-json/carbon": "^1.2.13",
