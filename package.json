@@ -25,13 +25,13 @@
     "vue-sonner": "^2.0.2"
   },
   "devDependencies": {
-    "@iconify-json/carbon": "^1.2.13",
-    "@iconify-json/ri": "^1.2.5",
+    "@iconify-json/carbon": "^1.2.14",
+    "@iconify-json/ri": "^1.2.6",
     "@nuxt/icon": "^2.0.0",
     "@pinia/nuxt": "^0.11.2",
-    "@unocss/preset-wind4": "^66.4.2",
-    "@vueuse/core": "^13.6.0",
-    "@vueuse/nuxt": "^13.6.0",
+    "@unocss/preset-wind4": "^66.5.3",
+    "@vueuse/core": "^13.9.0",
+    "@vueuse/nuxt": "^13.9.0",
     "nuxt-elysia": "^0.2.0",
     "pinia": "^3.0.3"
   }
